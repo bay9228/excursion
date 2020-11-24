@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+h1, h2, p {
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+a {
+    text-decoration: underline;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+}
